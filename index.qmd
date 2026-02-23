@@ -1,0 +1,46 @@
+---
+pagetitle: "Tidy Finance Vietnam"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+---
+
+::: {.hero-banner}
+
+# Tidy Finance Vietnam 🇻🇳 {.hero-title}
+
+### An opinionated approach to empirical finance in Vietnam with Python {.hero-subtitle}
+
+### Phương pháp tiếp cận có hệ thống cho tài chính thực nghiệm tại Việt Nam với Python {.hero-subtitle-vi}
+
+:::
+
+::: {.content-block}
+
+## Books / Sách
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .book-card}
+
+### 📘 Tidy Finance Vietnam with Python
+
+The complete guide to empirical finance in Vietnam using Python. Covers data acquisition, portfolio analysis, asset pricing, and market microstructure — all with Vietnamese market data.
+
+[Read the English Book →](https://mikenguyen13.github.io/tidy_finance_vn/){.btn .btn-primary}
+
+:::
+
+::: {.g-col-12 .g-col-md-6 .book-card}
+
+### 📗 Tidy Finance Việt Nam với Python
+
+Hướng dẫn toàn diện về tài chính thực nghiệm tại Việt Nam sử dụng Python. Bao gồm thu thập dữ liệu, phân tích danh mục, định giá tài sản và vi cấu trúc thị trường — tất cả với dữ liệu thị trường Việt Nam.
+
+[Đọc Sách Tiếng Việt →](){.btn .btn-primary}
+
+:::
+
+:::
+

@@ -1,0 +1,67 @@
+.hero-banner {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  color: #e8e8e8;
+  padding: 5rem 2rem;
+  text-align: center;
+  margin: -1rem -1rem 2rem -1rem;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  font-weight: 300;
+  opacity: 0.9;
+  max-width: 700px;
+  margin: 0 auto 0.3rem auto;
+  color: #c8d6e5;
+}
+
+.hero-subtitle-vi {
+  font-size: 1.1rem;
+  font-weight: 300;
+  font-style: italic;
+  opacity: 0.7;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #c8d6e5;
+}
+
+.content-block {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.content-block h2 {
+  color: #1a1a2e;
+  border-bottom: 2px solid #e94560;
+  padding-bottom: 0.5rem;
+  margin-top: 2.5rem;
+}
+
+.book-card {
+  padding: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  transition: box-shadow 0.2s;
+}
+
+.book-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #e94560;
+  border-color: #e94560;
+}
+
+.btn-primary:hover {
+  background-color: #c0392b;
+  border-color: #c0392b;
+}

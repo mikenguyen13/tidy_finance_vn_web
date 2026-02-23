@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Applying Tidy Finance with Python to Vietnam"
+  description: "An approach to empirical finance in Vietnam with Python"
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#e8e8e8"
+    left:
+      - href: index.qmd
+        text: Home
+      # - href: about.qmd
+      #   text: About
+      - text: "📘 English Book"
+        href: https://mikenguyen13.github.io/tidy_finance_vn/
+      - text: "📗 Sách Tiếng Việt"
+        href: https://YOUR-ORG.github.io/tidy-finance-vietnam-python-vi/
+    # right:
+    #   - icon: github
+    #     href: https://github.com/YOUR-ORG/tidy-finance-vietnam-website
+  # page-footer:
+  #   center: "© 2025 Tidy Finance Vietnam | Built with [Quarto](https://quarto.org)"
+  search: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About / Giới thiệu",
+    "section": "",
+    "text": "Tidy Finance Vietnam is an open-source educational project that brings reproducible empirical finance to Vietnamese markets, built on the Tidy Finance framework.\nTidy Finance Việt Nam là dự án giáo dục mã nguồn mở nhằm mang tài chính thực nghiệm có thể tái tạo đến thị trường Việt Nam."
+  },
+  {
+    "objectID": "about.html#tidy-finance-vietnam",
+    "href": "about.html#tidy-finance-vietnam",
+    "title": "About / Giới thiệu",
+    "section": "",
+    "text": "Tidy Finance Vietnam is an open-source educational project that brings reproducible empirical finance to Vietnamese markets, built on the Tidy Finance framework.\nTidy Finance Việt Nam là dự án giáo dục mã nguồn mở nhằm mang tài chính thực nghiệm có thể tái tạo đến thị trường Việt Nam."
+  },
+  {
+    "objectID": "about.html#data-sources-nguồn-dữ-liệu",
+    "href": "about.html#data-sources-nguồn-dữ-liệu",
+    "title": "About / Giới thiệu",
+    "section": "Data Sources / Nguồn dữ liệu",
+    "text": "Data Sources / Nguồn dữ liệu\n\nDataCore.vn — Vietnamese financial data platform / Nền tảng dữ liệu tài chính Việt Nam\nHOSE / HNX / UPCOM — Vietnamese stock exchanges / Sàn chứng khoán Việt Nam\nState Bank of Vietnam — Monetary policy data / Dữ liệu chính sách tiền tệ"
+  },
+  {
+    "objectID": "about.html#license-giấy-phép",
+    "href": "about.html#license-giấy-phép",
+    "title": "About / Giới thiệu",
+    "section": "License / Giấy phép",
+    "text": "License / Giấy phép\nCC BY-NC-SA 4.0"
+  }
+]
