@@ -4,28 +4,6 @@ page-layout: custom
 section-divs: false
 toc: false
 css: index.css
-description: "Tidy Finance Vietnam is an open-source project providing comprehensive guides to empirical finance in Vietnam using Python. Covers HOSE, HNX, UPCOM data, portfolio analysis, asset pricing, market microstructure, and more."
-keywords:
-  - tidy finance vietnam
-  - empirical finance vietnam
-  - vietnamese stock market
-  - python finance
-  - HOSE
-  - HNX
-  - UPCOM
-  - asset pricing vietnam
-  - portfolio analysis vietnam
-  - market microstructure vietnam
-  - tài chính thực nghiệm việt nam
-  - thị trường chứng khoán việt nam
-  - phân tích danh mục đầu tư
-  - định giá tài sản
-  - vi cấu trúc thị trường
-  - DataCore.vn
-  - vietnamese financial data
-  - risk-free rate vietnam
-  - fama french vietnam
-  - capm vietnam
 open-graph:
   title: "Tidy Finance Vietnam, Empirical Finance with Python"
   description: "Open-source guides to empirical finance in Vietnam. Data acquisition, portfolio analysis, asset pricing, and market microstructure with Vietnamese market data."
@@ -103,6 +81,24 @@ Hướng dẫn toàn diện bằng tiếng Việt về tài chính thực nghi�
 :::::
 ::::::
 
+
+::: content-block
+## Citation / Trích dẫn
+
+If you use Tidy Finance Vietnam in your research, please cite:
+
+``` bibtex
+@book{tidyfinancevietnam,
+  title     = {Tidy Finance Vietnam with Python},
+  author    = {Nguyen, Mike},
+  year      = {2025},
+  url       = {https://mikenguyen13.github.io/tidy_finance_vn/},
+  note      = {Open-source textbook on empirical finance in Vietnam}
+}
+```
+:::
+
+
 ::: content-block
 ## Why Vietnam? / Tại sao Việt Nam?
 
@@ -141,6 +137,14 @@ Analyze bid-ask spreads, price impact measures (Amihud illiquidity, Kyle's lambd
 ### 📉 Risk Management
 
 Estimate Value-at-Risk (VaR) and Expected Shortfall using historical simulation, parametric, and Monte Carlo methods adapted for Vietnamese return distributions with fat tails and price limits.
+:::
+
+::: {.g-col-12 .g-col-md-4 .topic-card}
+
+### 🤖 Machine Learning
+
+Apply machine learning methods for Vietnamese stock return prediction and portfolio construction.
+
 :::
 
 ::: {.g-col-12 .g-col-md-4 .topic-card}
@@ -211,18 +215,3 @@ Tidy Finance Vietnam is open source and welcomes contributions. Whether you find
 -   Help translate content between English and Vietnamese
 :::
 
-::: content-block
-## Citation / Trích dẫn
-
-If you use Tidy Finance Vietnam in your research, please cite:
-
-``` bibtex
-@book{tidyfinancevietnam,
-  title     = {Tidy Finance Vietnam with Python},
-  author    = {Nguyen, Mike},
-  year      = {2025},
-  url       = {https://mikenguyen13.github.io/tidy_finance_vn/},
-  note      = {Open-source textbook on empirical finance in Vietnam}
-}
-```
-:::
