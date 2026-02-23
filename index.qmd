@@ -1,46 +1,228 @@
 ---
-pagetitle: "Tidy Finance Vietnam"
+pagetitle: "Applying Tidy Finance with Python to Vietnam"
 page-layout: custom
 section-divs: false
 toc: false
 css: index.css
+description: "Tidy Finance Vietnam is an open-source project providing comprehensive guides to empirical finance in Vietnam using Python. Covers HOSE, HNX, UPCOM data, portfolio analysis, asset pricing, market microstructure, and more."
+keywords:
+  - tidy finance vietnam
+  - empirical finance vietnam
+  - vietnamese stock market
+  - python finance
+  - HOSE
+  - HNX
+  - UPCOM
+  - asset pricing vietnam
+  - portfolio analysis vietnam
+  - market microstructure vietnam
+  - tài chính thực nghiệm việt nam
+  - thị trường chứng khoán việt nam
+  - phân tích danh mục đầu tư
+  - định giá tài sản
+  - vi cấu trúc thị trường
+  - DataCore.vn
+  - vietnamese financial data
+  - risk-free rate vietnam
+  - fama french vietnam
+  - capm vietnam
+open-graph:
+  title: "Tidy Finance Vietnam, Empirical Finance with Python"
+  description: "Open-source guides to empirical finance in Vietnam. Data acquisition, portfolio analysis, asset pricing, and market microstructure with Vietnamese market data."
+  locale: en_US
+twitter-card:
+  title: "Tidy Finance Vietnam"
+  description: "Comprehensive Python guides for empirical finance research using Vietnamese market data."
 ---
 
-::: {.hero-banner}
-
+::: hero-banner
 # Tidy Finance Vietnam 🇻🇳 {.hero-title}
 
-### An opinionated approach to empirical finance in Vietnam with Python {.hero-subtitle}
+### An approach to empirical finance in Vietnam with Python {.hero-subtitle}
 
 ### Phương pháp tiếp cận có hệ thống cho tài chính thực nghiệm tại Việt Nam với Python {.hero-subtitle-vi}
 
+[English Book →](https://mikenguyen13.github.io/tidy_finance_vn/){.btn .btn-primary .btn-hero} [Sách Tiếng Việt →](){.btn .btn-secondary .btn-hero}
 :::
 
-::: {.content-block}
+::: content-block
+## About the Project / Giới thiệu Dự án
 
+**Tidy Finance Vietnam** is an open-source initiative that adapts the [Tidy Finance](https://www.tidy-finance.org/) framework for the Vietnamese financial market. The project provides reproducible, well-documented Python code for conducting empirical finance research using data from the Ho Chi Minh Stock Exchange (HOSE), Hanoi Stock Exchange (HNX), and the Unlisted Public Company Market (UPCOM).
+
+Vietnam's stock market has grown rapidly since its establishment in 2000, with over 1,800 listed companies and a market capitalization exceeding \$200 billion. Yet accessible, code-driven resources for academic and professional research on Vietnamese markets remain scarce. This project fills that gap.
+
+Dự án **Tidy Finance Vietnam** là sáng kiến mã nguồn mở nhằm áp dụng khung phân tích [Tidy Finance](https://www.tidy-finance.org/) cho thị trường tài chính Việt Nam. Dự án cung cấp mã Python có thể tái tạo và được tài liệu hóa đầy đủ để thực hiện nghiên cứu tài chính thực nghiệm sử dụng dữ liệu từ Sở Giao dịch Chứng khoán TP.HCM (HOSE), Sở Giao dịch Chứng khoán Hà Nội (HNX) và thị trường UPCoM.
+:::
+
+:::::: content-block
 ## Books / Sách
 
-::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-6 .book-card}
-
 ### 📘 Tidy Finance Vietnam with Python
 
-The complete guide to empirical finance in Vietnam using Python. Covers data acquisition, portfolio analysis, asset pricing, and market microstructure — all with Vietnamese market data.
+The complete English-language guide to empirical finance in Vietnam. This book walks you through every step, from acquiring Vietnamese market data to implementing cutting-edge asset pricing models.
+
+**Topics covered:**
+
+-   Setting up Python environments for financial research
+-   Accessing and cleaning data from HOSE, HNX, and UPCOM
+-   Constructing risk-free rates for Vietnam
+-   Portfolio sorts and performance evaluation
+-   CAPM, Fama-French, and multifactor models for Vietnamese equities
+-   Market microstructure: bid-ask spreads, liquidity, and trading costs
+-   Value-at-risk and risk management
+-   Event studies and corporate finance applications
+-   Machine learning methods for return prediction
+-   Network analysis in Vietnamese financial markets
 
 [Read the English Book →](https://mikenguyen13.github.io/tidy_finance_vn/){.btn .btn-primary}
-
 :::
 
 ::: {.g-col-12 .g-col-md-6 .book-card}
-
 ### 📗 Tidy Finance Việt Nam với Python
 
-Hướng dẫn toàn diện về tài chính thực nghiệm tại Việt Nam sử dụng Python. Bao gồm thu thập dữ liệu, phân tích danh mục, định giá tài sản và vi cấu trúc thị trường — tất cả với dữ liệu thị trường Việt Nam.
+Hướng dẫn toàn diện bằng tiếng Việt về tài chính thực nghiệm tại Việt Nam. Cuốn sách hướng dẫn từng bước, từ thu thập dữ liệu thị trường Việt Nam đến triển khai các mô hình định giá tài sản tiên tiến.
+
+**Nội dung bao gồm:**
+
+-   Thiết lập môi trường Python cho nghiên cứu tài chính
+-   Truy cập và làm sạch dữ liệu từ HOSE, HNX và UPCOM
+-   Xây dựng lãi suất phi rủi ro cho Việt Nam
+-   Phân loại danh mục và đánh giá hiệu suất
+-   CAPM, Fama-French và các mô hình đa nhân tố cho cổ phiếu Việt Nam
+-   Vi cấu trúc thị trường: chênh lệch giá mua-bán, thanh khoản và chi phí giao dịch
+-   Giá trị rủi ro (VaR) và quản trị rủi ro
+-   Nghiên cứu sự kiện và ứng dụng tài chính doanh nghiệp
+-   Phương pháp học máy cho dự báo lợi nhuận
+-   Phân tích mạng lưới trong thị trường tài chính Việt Nam
 
 [Đọc Sách Tiếng Việt →](){.btn .btn-primary}
+:::
+:::::
+::::::
 
+::: content-block
+## Why Vietnam? / Tại sao Việt Nam?
+
+Vietnam is one of the fastest-growing frontier-to-emerging markets in the world. Key characteristics make it a compelling case for empirical finance research:
+
+-   **Rapid market development**: From zero listed companies in 2000 to over 1,800 across three exchanges (HOSE, HNX, UPCOM), Vietnam's equity market has expanded at an extraordinary pace.
+-   **FTSE Russell emerging market upgrade**: Vietnam has been on the watch list for reclassification from frontier to emerging market status, which would unlock billions in passive fund inflows.
+-   **Unique market structure**: Daily price limit bands (±7% on HOSE, ±10% on HNX, ±15% on UPCOM), T+2 settlement, high retail investor participation (\~90% of trading volume), and foreign ownership limits create distinct empirical patterns not observed in developed markets.
+-   **Under-researched**: Relative to its economic significance (GDP \> \$400 billion, population \~100 million), Vietnam remains under-studied in the academic finance literature. High-quality, reproducible research infrastructure is needed.
+-   **Data availability**: Vietnamese market data, including intraday trades, corporate filings, and macroeconomic indicators, are increasingly accessible through platforms like [DataCore.vn](https://datacore.vn), SSI, and the State Securities Commission.
 :::
 
+::::::::: content-block
+## Key Topics / Chủ đề Chính
+
+:::::::: grid
+::: {.g-col-12 .g-col-md-4 .topic-card}
+### 📊 Data Acquisition
+
+Access daily and intraday data from HOSE, HNX, and UPCOM. Work with Vietnamese government bond yields, macroeconomic indicators, and corporate financial statements. Build reproducible data pipelines with Python.
 :::
 
+::: {.g-col-12 .g-col-md-4 .topic-card}
+### 📈 Asset Pricing
+
+Implement CAPM, Fama-French three- and five-factor models, and Carhart four-factor models calibrated for Vietnamese equities. Construct size, value, momentum, profitability, and investment factors using Vietnamese data.
+:::
+
+::: {.g-col-12 .g-col-md-4 .topic-card}
+### 🏦 Market Microstructure
+
+Analyze bid-ask spreads, price impact measures (Amihud illiquidity, Kyle's lambda), order flow dynamics, and the effects of Vietnam's price limit bands on volatility and liquidity.
+:::
+
+::: {.g-col-12 .g-col-md-4 .topic-card}
+### 📉 Risk Management
+
+Estimate Value-at-Risk (VaR) and Expected Shortfall using historical simulation, parametric, and Monte Carlo methods adapted for Vietnamese return distributions with fat tails and price limits.
+:::
+
+::: {.g-col-12 .g-col-md-4 .topic-card}
+### 🔗 Network Analysis
+
+Map co-ownership, co-director, and industry-based networks across Vietnamese firms. Analyze systemic risk propagation, information diffusion, and portfolio diversification through network lenses.
+:::
+::::::::
+:::::::::
+
+::: content-block
+## Data Sources / Nguồn Dữ liệu
+
+The project integrates data from multiple Vietnamese and international sources:
+
+| Source | Description | Coverage |
+|-------------------|------------------------------|-----------------------|
+| [DataCore.vn](https://datacore.vn) | Vietnamese data platform | Equities, bonds, macro, corporate filings |
+| HOSE / HNX / UPCOM | Official exchange data | Daily and intraday trades, order books |
+| State Securities Commission (SSC) | Regulatory filings | Corporate disclosures, fund flows |
+| State Bank of Vietnam (SBV) | Central bank data | Interest rates, monetary policy, FX |
+| General Statistics Office (GSO) | National statistics | GDP, CPI, industrial production |
+| World Bank / IMF | International macro data | Cross-country comparisons |
+:::
+
+::: content-block
+## Who Is This For? / Dành cho Ai?
+
+-   **Finance students and academics** seeking reproducible research tools for the Vietnamese markets
+
+-   **Quantitative analysts and portfolio managers** working with Vietnamese equities
+
+-   **Data scientists** interested in applying Python to emerging market finance
+
+-   **Policy researchers** studying the Vietnamese capital market development
+
+-   **CFA and FRM candidates** looking for practical, code-based finance examples
+
+-   **Vietnamese finance professionals** wanting international-standard analytical tools
+
+-   **Sinh viên và nhà nghiên cứu tài chính** muốn công cụ nghiên cứu có thể tái tạo cho thị trường Việt Nam
+
+-   **Nhà phân tích định lượng và quản lý danh mục** làm việc với cổ phiếu Việt Nam
+
+-   **Chuyên gia tài chính Việt Nam** muốn công cụ phân tích đạt chuẩn quốc tế
+:::
+
+::: content-block
+## Technology Stack / Công nghệ
+
+The books and all analyses are built entirely with open-source tools:
+
+-   **Python**, Primary programming language (pandas, numpy, scipy, statsmodels, scikit-learn, matplotlib, plotly)
+-   **Quarto**, Literate programming and reproducible document publishing
+-   **Git / GitHub**, Version control and open collaboration
+-   **SQLite / DuckDB**, Local database management for large datasets
+-   **DataCore.vn API**, Programmatic access to Vietnamese financial data
+:::
+
+::: content-block
+## Contributing / Đóng góp
+
+Tidy Finance Vietnam is open source and welcomes contributions. Whether you find a typo, want to add a new chapter, improve existing code, or translate content, your help is valued.
+
+-   Report issues on [GitHub](https://github.com/mikenguyen13/tidy_finance_vn)
+-   Submit pull requests with improvements
+-   Start discussions for feature requests or questions
+-   Help translate content between English and Vietnamese
+:::
+
+::: content-block
+## Citation / Trích dẫn
+
+If you use Tidy Finance Vietnam in your research, please cite:
+
+``` bibtex
+@book{tidyfinancevietnam,
+  title     = {Tidy Finance Vietnam with Python},
+  author    = {Nguyen, Mike},
+  year      = {2025},
+  url       = {https://mikenguyen13.github.io/tidy_finance_vn/},
+  note      = {Open-source textbook on empirical finance in Vietnam}
+}
+```
+:::

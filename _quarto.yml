@@ -1,10 +1,13 @@
 project:
   type: website
-  output-dir: _site
+  # output-dir: _site
+  output-dir: docs
+  
 
 website:
   title: "Applying Tidy Finance with Python to Vietnam"
   description: "An approach to empirical finance in Vietnam with Python"
+  google-analytics: "G-GNCL5RNXDR"
   navbar:
     background: "#1a1a2e"
     foreground: "#e8e8e8"
