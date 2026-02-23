@@ -89,7 +89,7 @@ If you use Tidy Finance Vietnam in your research, please cite:
 
 ``` bibtex
 @book{tidyfinancevietnam,
-  title     = {Tidy Finance Vietnam with Python},
+  title     = {Applying Tidy Finance with Python to Vietnam},
   author    = {Nguyen, Mike},
   year      = {2025},
   url       = {https://mikenguyen13.github.io/tidy_finance_vn/},
