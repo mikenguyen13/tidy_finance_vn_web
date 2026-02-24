@@ -20,7 +20,7 @@ twitter-card:
 
 ### Phương pháp tiếp cận có hệ thống cho tài chính thực nghiệm tại Việt Nam với Python {.hero-subtitle-vi}
 
-[English Book →](https://mikenguyen13.github.io/tidy_finance_vn/){.btn .btn-primary .btn-hero} [Sách Tiếng Việt →](){.btn .btn-secondary .btn-hero}
+[English Book →](https://mikenguyen13.github.io/tidy_finance_vn/){.btn .btn-primary .btn-hero} [Sách Tiếng Việt →](https://mikenguyen13.github.io/tidy_finance_vn_vi/){.btn .btn-secondary .btn-hero}
 :::
 
 ::: content-block
@@ -76,7 +76,7 @@ Hướng dẫn toàn diện bằng tiếng Việt về tài chính thực nghi�
 -   Phương pháp học máy cho dự báo lợi nhuận
 -   Phân tích mạng lưới trong thị trường tài chính Việt Nam
 
-[Đọc Sách Tiếng Việt →](){.btn .btn-primary}
+[Đọc Sách Tiếng Việt →](https://mikenguyen13.github.io/tidy_finance_vn_vi/){.btn .btn-primary}
 :::
 :::::
 ::::::
