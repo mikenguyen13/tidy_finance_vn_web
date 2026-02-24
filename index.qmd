@@ -14,7 +14,7 @@ twitter-card:
 ---
 
 ::: hero-banner
-# Tidy Finance Vietnam 🇻🇳 {.hero-title}
+# Empirical Finance in Vietnam {.hero-title}
 
 ### An approach to empirical finance in Vietnam with Python {.hero-subtitle}
 
