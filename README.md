@@ -1,4 +1,4 @@
-# Tidy Finance Vietnam 🇻🇳
+# Applying Tidy Finance with Python to Vietnam
 
 An approach to empirical finance in Vietnam with Python.
 
@@ -8,8 +8,8 @@ An approach to empirical finance in Vietnam with Python.
 
 | Language | Link |
 |----------|------|
-| 📘 English | [Tidy Finance Vietnam with Python](https://mikenguyen13.github.io/tidy_finance_vn/) |
-| 📗 Tiếng Việt | Coming soon |
+| 📘 English | [Applying Tidy Finance with Python to Vietnam](https://mikenguyen13.github.io/tidy_finance_vn/) |
+| 📗 Tiếng Việt | [Tài Chính Ứng Dụng với Python](https://mikenguyen13.github.io/tidy_finance_vn_vi/) |
 
 ## About
 
