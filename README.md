@@ -17,11 +17,6 @@ Tidy Finance Vietnam adapts the [Tidy Finance](https://www.tidy-finance.org/) fr
 
 **Topics covered**: data acquisition, portfolio analysis, asset pricing (CAPM, Fama-French), market microstructure, risk management, machine learning, and network analysis - all with Vietnamese market data.
 
-## Tech Stack
-
-- **Python** — pandas, numpy, statsmodels, scikit-learn, plotly
-- **Quarto** — website and book rendering
-- **GitHub Pages** — hosting
 
 ## Citation
 
